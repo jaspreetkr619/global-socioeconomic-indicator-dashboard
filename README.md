@@ -31,8 +31,9 @@ The objective of this project is to study how socio-economic indicators vary acr
 
 ---
 
-## 📊 Dataset Description
-The dataset contains global socio-economic indicators collected across multiple countries and years. It includes features such as:
+## 📊 Dataset 
+The dataset used in this project is included in this repository under the `data/` folder.
+It contains global socio-economic indicators collected across multiple countries and years. It includes features such as:
 
 - Country  
 - Region  
@@ -94,10 +95,6 @@ An interactive dashboard was developed using Panel, featuring:
 
 ---
 
-## 📷 Dashboard Preview
-![Dashboard Preview](screenshots/dashboard_preview.png)
-
----
 
 ## 📌 Key Insights
 - Significant variation exists in indicator values across regions  
